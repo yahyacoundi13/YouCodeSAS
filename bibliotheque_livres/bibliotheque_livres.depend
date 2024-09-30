@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727534002 source:c:\users\adm\desktop\c\bibliotheque_livres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1727534002 source:c:\users\adm\desktop\youcode_sas\bibliotheque_livres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

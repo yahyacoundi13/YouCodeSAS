@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727449367 source:c:\users\adm\desktop\c\day2tableau1\main.c
+	<stdio.h>
+	<stdlib.h>
+
