@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727940711 source:c:\users\adm\desktop\youcode_sas\système de gestion de contacts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
