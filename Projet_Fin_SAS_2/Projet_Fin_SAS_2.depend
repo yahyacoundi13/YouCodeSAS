@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1728051687 source:c:\users\adm\desktop\youcode_sas\projet_fin_sas_2\main.c
+1728129798 source:c:\users\adm\desktop\youcode_sas\projet_fin_sas_2\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<stdbool.h>
+	<ctype.h>
 
